@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a699cbe2-c66a-4d15-96ce-55cfcccd7b62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RL-Robot-Monster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzYRNHQEFifDVT0UowpQJRqAwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a699cbe2-c66a-4d15-96ce-55cfcccd7b62" name="Default Changelist" comment="" />
+      <created>1583946880064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583946880064</updated>
+      <workItem from="1583946884202" duration="688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="141" width="447" height="520" key="FileChooserDialogImpl" timestamp="1583947014559">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="454" y="141" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583947014559" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583947046835">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583947046835" />
+  </component>
+</project>
